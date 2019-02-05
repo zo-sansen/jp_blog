@@ -35,12 +35,12 @@ blogexcerpt:
 ### 2.代码块
 语法：代码之间分别用三个反引号包起来，且两边的反引号单独占一行
 
-(```)
+```
     function fun(){
          echo "这是一句非常牛逼的代码";
     }
     fun();
-(```)
+```
 
 ### 3.直接tab
     void main()
@@ -108,6 +108,13 @@ blogexcerpt:
 
 事例：\!\[markdown创始人](https://github.com/younghz/Markdown/raw/master/resource/Aaron_Swartz.jpg)
 ![markdown创始人](https://cdn.dribbble.com/users/244516/screenshots/2766513/the-hound_big_2_.gif)
+
+###图片大小
+语法
+> \!\[](...=300-300-r)
+
+![markdown创始人](https://cdn.dribbble.com/users/244516/screenshots/2766513/the-hound_big_2_.gif=300-300-r)
+
 ## 九.超链接
 语法
 >   [超链接名](超链接地址 "超链接title")
