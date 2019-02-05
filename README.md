@@ -65,15 +65,13 @@ blogexcerpt:
 > 三个或者三个以上的 - 或者 * 都可以。
 ## 八.图片
 语法
->   ![https://diycode.b0.upaiyun.com/photo/2019/d0b12a5972325a5c9efe33f8e5d27819.png](src "title")
+>   ![alt](src "title")
 >   - alt图片下面文字
 >   - src图片地址
 >   - title鼠标移到图片上时显示的内容
 
-\!\[blockchain\](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
-u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
->   ![haha](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
-    u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
+\!\[markdown创始人\](https://github.com/younghz/Markdown/raw/master/resource/Aaron_Swartz.jpg)
+![markdown创始人](https://github.com/younghz/Markdown/raw/master/resource/Aaron_Swartz.jpg)
 
 
 ## git:复选框(github特有的特性)
