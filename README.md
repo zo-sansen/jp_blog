@@ -65,7 +65,7 @@ blogexcerpt:
 > 三个或者三个以上的 - 或者 * 都可以。
 ## 八.图片
 语法
->   ![alt](src "title")
+>   ![https://diycode.b0.upaiyun.com/photo/2019/d0b12a5972325a5c9efe33f8e5d27819.png](src "title")
 >   - alt图片下面文字
 >   - src图片地址
 >   - title鼠标移到图片上时显示的内容
