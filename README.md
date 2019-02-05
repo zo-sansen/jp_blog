@@ -27,6 +27,18 @@ blogexcerpt:
 >       >>
 >       或者更多
 ## 四.代码区块
+### 1.单行代码
+语法：代码之间分别用一个反引号（``）包起来
+> `println("123")`
+### 2.代码块
+语法：代码之间分别用三个反引号包起来，且两边的反引号单独占一行
+(```)
+    void main()
+    {
+    printf("Hello Markdown Use AlanJiang");
+    }
+(```)
+### 3.直接tab
     void main()
     {
         printf("Hello Markdown Use AlanJiang");
@@ -103,7 +115,8 @@ blogexcerpt:
 >   [百度](www.baidu.com)
 
 >   [百度](www.baidu.com)
-##十.表格
+## 十.表格
+
 >       表头|表头|表头
 >       :---|:--:|---:
 >       内容|内容|内容
@@ -113,7 +126,7 @@ blogexcerpt:
 
 java | html | js
 :-   | :-:  | -:
-小明 | 小黄 | 小亮
+小明1234 | 小黄1324 | 小亮123
 刘备 | 关羽 | 张飞
 
 ## git:复选框(github特有的特性)
