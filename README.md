@@ -29,11 +29,19 @@ blogexcerpt:
 ## 四.代码区块
 ### 1.单行代码
 语法：代码之间分别用一个反引号（``）包起来
+>       `create database hero;`
 
 `create database hero;`
 
 ### 2.代码块
 语法：代码之间分别用三个反引号包起来，且两边的反引号单独占一行
+
+>       ```
+>           function fun(){
+>           echo "这是一句非常牛逼的代码";
+>           }
+>           fun();
+>       ```
 
 ```
     function fun(){
