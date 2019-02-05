@@ -52,6 +52,26 @@ blogexcerpt:
 > 1. a
 > 2. b
 > 3. c
+###3.嵌套
+>嵌套列表
+
+>       1. a
+>           1. a1
+>           2. a1
+
+> 1. a
+>   1. a1
+>   2. a1
+
+>嵌套列表无序
+
+>       - a
+>           - a1
+>           - a2
+
+>  - a
+>     - a1
+>     - a2
 ## 六.字体样式
 1. 加粗
 > \**word\** **word**   
@@ -70,8 +90,7 @@ blogexcerpt:
 >   - src图片地址
 >   - title鼠标移到图片上时显示的内容
 
-\!\[markdown创始人\](\https://github.com/younghz/Markdown/raw/master/resource/Aaron_Swartz.jpg\)
-
+事例：\!\[markdown创始人](https://github.com/younghz/Markdown/raw/master/resource/Aaron_Swartz.jpg)
 ![markdown创始人](https://cdn.dribbble.com/users/244516/screenshots/2766513/the-hound_big_2_.gif)
 ## 九.超链接
 语法
@@ -82,10 +101,24 @@ blogexcerpt:
 >   \[百度](www.baidu.com)
 
 >   [百度](www.baidu.com)
->   [百度](www.baidu.com)
 
+>   [百度](www.baidu.com)
+##十.表格
+>       表头|表头|表头
+>       :---|:--:|---:
+>       内容|内容|内容
+>       内容|内容|内容
+> - "\-"有一个就可以了
+> - "\:"对其方式
+
+java | html | js
+:-   | :-:  | -:
+小明 | 小黄 | 小亮
+刘备 | 关羽 | 张飞
 
 ## git:复选框(github特有的特性)
+>       - [ ] 不勾选
+>       - [x] 勾选
 - [ ] 不勾选
 - [x] 勾选
 - [x] C
