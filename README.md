@@ -60,27 +60,38 @@ blogexcerpt:
 3. 斜体加粗
 > \***word\*** ***word***   
 4. 删除线
-> \~~word\~~  ~~word~~ 
+> \~\~word\~\~  ~word~~ 
 ## 七.分割线
 > 三个或者三个以上的 - 或者 * 都可以。
 ## 八.图片
 语法
->   ![alt](src "title")
+>   \!\[alt\](src "title")
 >   - alt图片下面文字
 >   - src图片地址
 >   - title鼠标移到图片上时显示的内容
 
-\!\[markdown创始人\](https://github.com/younghz/Markdown/raw/master/resource/Aaron_Swartz.jpg)
-![markdown创始人](https://github.com/younghz/Markdown/raw/master/resource/Aaron_Swartz.jpg)
+\!\[markdown创始人\](\https://github.com/younghz/Markdown/raw/master/resource/Aaron_Swartz.jpg\)
+
+![markdown创始人](https://cdn.dribbble.com/users/244516/screenshots/2766513/the-hound_big_2_.gif)
+## 九.超链接
+语法
+>   [超链接名](超链接地址 "超链接title")
+>   - title可以不加
+
+>   \[百度](www.baidu.com)
+>   \[百度](www.baidu.com)
+
+>   [百度](www.baidu.com)
+>   [百度](www.baidu.com)
 
 
 ## git:复选框(github特有的特性)
 - [ ] 不勾选
 - [x] 勾选
- [x] C
- [x] C++
- [x] Java
- [x] Qt
- [x] Android
- [ ] C#
- [ ] .NET
+- [x] C
+- [x] C++
+- [x] Java
+- [x] Qt
+- [x] Android
+- [ ] C#
+- [ ] .NET
