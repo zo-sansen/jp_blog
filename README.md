@@ -79,10 +79,10 @@ u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
 ## git:复选框(github特有的特性)
 - [ ] 不勾选
 - [x] 勾选
-[x] C
-[x] C++
-[x] Java
-[x] Qt
-[x] Android
-[ ] C#
-[ ] .NET
+ [x] C
+ [x] C++
+ [x] Java
+ [x] Qt
+ [x] Android
+ [ ] C#
+ [ ] .NET
