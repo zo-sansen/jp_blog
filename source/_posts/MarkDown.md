@@ -1,12 +1,13 @@
 ---
-title: markdown
+title: MarkDown
 tags:
-  - markdown
+  - MarkDown
+  - HEXO_GitHub个博
 categories:
-  - 文本编辑
-author:
-thumbnail:
-blogexcerpt:
+  - 个博搭建
+author: alanJiang
+thumbnail: /img/thumbnail/markdown.jpg
+blogexcerpt:  markdown常见用法学习与使用,并整理相关资源信息。
 ---
 
 
@@ -45,12 +46,12 @@ blogexcerpt:
 ### 2.代码块
 语法：代码之间分别用三个反引号包起来，且两边的反引号单独占一行
 
->       ```
+>       \`\`\`
 >           function fun(){
 >           echo "这是一句非常牛逼的代码";
 >           }
 >           fun();
->       ```
+>        \`\`\`
 
 ```
     function fun(){
@@ -123,26 +124,26 @@ blogexcerpt:
 >   - src图片地址
 >   - title鼠标移到图片上时显示的内容
 
-事例：\!\[markdown创始人](https://github.com/younghz/Markdown/raw/master/resource/Aaron_Swartz.jpg)
-![markdown创始人](https://cdn.dribbble.com/users/244516/screenshots/2766513/the-hound_big_2_.gif)
+事例：\!\[markdown创始人](/resource/the-hound_big_2_.gif)
+![markdown创始人](https://raw.githubusercontent.com/alanjiang1129/markdown/master/resource/the-hound_big_2_.gif)
 
 ### 图片大小(暂时不知道为什么不行)
 
 语法
 > \!\[](...=300-300-r)
 
-![markdown创始人](https://cdn.dribbble.com/users/244516/screenshots/2766513/the-hound_big_2_.gif =300-300-r)
+![markdown创始人](https://raw.githubusercontent.com/alanjiang1129/markdown/master/resource/the-hound_big_2_.gif =300-300-r)
 
 ### html标签方式
 >       <p align="left">
->           <img src="https://cdn.dribbble.com/users/244516/screenshots/2766513/the-hound_big_2_.gif" alt="Sample"  width="250" height="140">
+>           <img src="https://raw.githubusercontent.com/alanjiang1129/markdown/master/resource/the-hound_big_2_.gif" alt="Sample"  width="250" height="140">
 >           <p align="left">
 >               <em>html图片示例</em>
 >           </p>
 >       </p>
 
 <p align="left">
-    <img src="/resource/the-hound_big_2_.gif" alt="Sample"  width="250" height="140">
+    <img src="https://raw.githubusercontent.com/alanjiang1129/markdown/master/resource/the-hound_big_2_.gif" alt="Sample"  width="250" height="140">
     <p align="left">
         <em>html图片示例</em>
     </p>
@@ -172,7 +173,7 @@ java | html | js
 小明1234 | 小黄1324 | 小亮123
 刘备 | 关羽 | 张
 ## 十一.markdown绘制流程图
-<font color=#b3e0ff size=32>放弃这个东西:joy:，不好用还复杂，觉得还是xmind直接画比较简单粗暴。</font>
+放弃这个东西:joy:，不好用还复杂，觉得还是xmind直接画比较简单粗暴。
 
 
 

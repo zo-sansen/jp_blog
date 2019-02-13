@@ -1,5 +1,13 @@
 ---
-title: Hello World
+title: HelloHexo
+tags:
+    - HEXO
+    - HEXO_GitHub个博
+categories:
+    - 个博搭建
+author: alanJiang
+thumbnail: /img/thumbnail/hexo.jpg
+blogexcerpt:  hexo简介。
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
