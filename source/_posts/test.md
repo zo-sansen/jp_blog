@@ -1,5 +1,5 @@
 ---
-title: xll测试测试测试
+title: 空白博客
 date: 2019-2-13
 author: alanJiang
 tags:
@@ -7,5 +7,5 @@ tags:
 categories:
     - 个博搭建
 thumbnail:  /img/thumbnail/hello.jpg
-blogexcerpt: 测试发布文章
+blogexcerpt: 空白博客
 ---

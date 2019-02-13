@@ -138,14 +138,14 @@ requireComponent.keys().forEach(fileName => {
 
 # 子组件使用父组件
 关键字
-- $parent：
+## $parent：
 
-- prop：单向数据流传递，向下传递，
+## prop：单向数据流传递，向下传递，
 
-子组件定义
+### 子组件定义
 `props: ['initialCounter'],`
 
-父组件引用
+### 父组件引用
 >   单个传
 >   <blog-post v-bind:initialCounter="post.author"></blog-post>
 
@@ -156,7 +156,7 @@ post: {
   title: 'My Journey with Vue'
 }
 ```
-模板使用方式：
+### 模板使用方式：
 ```$xslt
 <blog-post v-bind="post"></blog-post>
 等于
@@ -165,9 +165,72 @@ post: {
   v-bind:title="post.title"
 ></blog-post>
 ```
+### Prop 验证
+```Vue.component('my-component', {
+     props: {
+       // 基础的类型检查 (`null` 匹配任何类型)
+       propA: Number,
+       // 多个可能的类型
+       propB: [String, Number],
+       // 必填的字符串
+       propC: {
+         type: String,
+         required: true
+       },
+       // 带有默认值的数字
+       propD: {
+         type: Number,
+         default: 100
+       },
+       // 带有默认值的对象
+       propE: {
+         type: Object,
+         // 对象或数组默认值必须从一个工厂函数获取
+         default: function () {
+           return { message: 'hello' }
+         }
+       },
+       // 自定义验证函数
+       propF: {
+         validator: function (value) {
+           // 这个值必须匹配下列字符串中的一个
+           return ['success', 'warning', 'danger'].indexOf(value) !== -1
+         }
+       }
+     }
+   })
+   ```
+
+#### type值
+- String
+- Number
+- Boolean
+- Array
+- Object
+- Date
+- Function
+- Symbol
+
+#### 构造函数事例
+```
+function Person (firstName, lastName) {
+  this.firstName = firstName
+  this.lastName = lastName
+}
+Vue.component('blog-post', {
+  props: {
+    author: Person
+  }
+})
+```
+## 事件传递
+父组件
+`<my-component v-on:my-event="doSomething"></my-component>`
+子组件调用方式
+`this.$emit('myEvent')`
 
 ## 依赖注入方式
-- provide：允许我们指定我们想要提供给后代组件的数据/方法
+### provide：允许我们指定我们想要提供给后代组件的数据/方法
  
     例子：
 ```
@@ -178,6 +241,5 @@ provide: function () {
            }
 ```
 
-- inject：来接收指定的我们想要添加在这个实例上的属性
-
+### inject：来接收指定的我们想要添加在这个实例上的属性
 `inject: ['getMap']`
