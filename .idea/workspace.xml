@@ -1,253 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0194a11e-eb28-4a6f-89e8-ceccfaf74d7b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/jp_blog.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+    <list default="true" id="0194a11e-eb28-4a6f-89e8-ceccfaf74d7b" name="Default" comment="ss">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/themes/hexo-theme-xups" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/Gruntfile.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/_config.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/de.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/default.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/es.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/fr.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/ja.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/ko.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/nl.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/no.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/pt.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/ru.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/zh-CN.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/zh-TW.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/after-footer.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/archive-post.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/archive.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/article.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/footer.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/gauges-analytics.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/google-analytics.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/head.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/header.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/mobile-nav.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/category.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/date.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/gallery.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/nav.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/tag.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/title.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/sidebar.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_widget/archive.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_widget/category.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_widget/recent_posts.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_widget/tag.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_widget/tagcloud.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/archive.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/category.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/index.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/layout.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/page.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/post.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/tag.ejs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/scripts/fancybox.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_extend.styl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/archive.styl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/article.styl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/comment.styl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/footer.styl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/header.styl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/highlight.styl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/mobile.styl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/sidebar-aside.styl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/sidebar-bottom.styl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/sidebar.styl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_util/grid.styl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_util/mixin.styl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_variables.styl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/fonts/FontAwesome.otf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/images/banner.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/style.styl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/blank.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_loading.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_loading@2x.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_overlay.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_sprite.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_sprite@2x.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/fancybox_buttons.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-buttons.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-buttons.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-media.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-thumbs.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-thumbs.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.pack.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/landscape/source/js/script.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/css/animate.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/css/bootstrap.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/css/bootstrap.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/css/flexslider.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/css/icomoon.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/css/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/css/style.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/fonts/bootstrap/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/fonts/bootstrap/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/fonts/bootstrap/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/fonts/icomoon/icomoon.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/fonts/icomoon/icomoon.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/fonts/icomoon/icomoon.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/fonts/icomoon/icomoon.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/fonts/icomoon/icomoon/demo-files/demo.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/fonts/icomoon/icomoon/demo-files/demo.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/fonts/icomoon/icomoon/demo.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/fonts/icomoon/icomoon/fonts/icomoon.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/fonts/icomoon/icomoon/fonts/icomoon.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/fonts/icomoon/icomoon/fonts/icomoon.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/fonts/icomoon/icomoon/fonts/icomoon.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/fonts/icomoon/icomoon/selection.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/fonts/icomoon/icomoon/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/images/blog-1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/images/blog-2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/images/cover_bg_1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/images/cover_bg_3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/images/loader.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/images/loc.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/images/portfolio-1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/images/portfolio-2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/images/portfolio-3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/images/portfolio-4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/images/portfolio-5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/images/portfolio-6.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/images/portfolio-7.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/images/portfolio-8.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/images/user-3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/js/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/js/google_map.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/js/jquery.easypiechart.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/js/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/js/jquery.stellar.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/js/jquery.waypoints.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/js/main.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/js/modernizr-2.6.2.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/js/respond.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/_bootstrap-compass.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/_bootstrap-mincer.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/_bootstrap-sprockets.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_alerts.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_badges.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_breadcrumbs.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_button-groups.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_buttons.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_carousel.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_close.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_code.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_component-animations.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_dropdowns.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_forms.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_glyphicons.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_grid.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_input-groups.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_jumbotron.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_labels.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_list-group.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_media.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_mixins.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_modals.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_navbar.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_navs.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_normalize.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_pager.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_pagination.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_panels.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_popovers.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_print.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_progress-bars.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_responsive-embed.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_responsive-utilities.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_scaffolding.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_tables.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_theme.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_thumbnails.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_tooltip.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_type.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_utilities.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_variables.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/_wells.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_alerts.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_background-variant.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_border-radius.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_buttons.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_center-block.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_clearfix.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_forms.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_gradients.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_grid-framework.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_grid.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_hide-text.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_image.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_labels.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_list-group.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_nav-divider.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_nav-vertical-align.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_opacity.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_pagination.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_panels.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_progress-bar.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_reset-filter.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_reset-text.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_resize.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_responsive-visibility.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_size.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_tab-focus.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_table-row.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_text-emphasis.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_text-overflow.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/bootstrap/mixins/_vendor-prefixes.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历1/sass/style.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/.idea/简历2.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/css/bootstrap.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/css/font-awesome.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/css/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/fonts/FontAwesome.otf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/images/arr.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/images/banner-btm.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/images/banner.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/images/p1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/images/p2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/images/p3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/images/p4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/images/p5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/js/bars.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/js/bootstrap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/js/easing.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/js/jquery-2.1.4.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/简历2/js/move-top.js" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -255,6 +11,20 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/简历1/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -306,6 +76,12 @@
               <item name="jp_blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="jp_blog" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jp_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jp_blog" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="简历1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -429,15 +205,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550159836311</updated>
-      <workItem from="1550159840108" duration="209000" />
+      <workItem from="1550159840108" duration="605000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="209000" />
+    <option name="totallyTimeSpent" value="605000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -447,12 +224,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Flutter Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -509,6 +286,27 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-xups/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/简历1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
