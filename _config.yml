@@ -88,7 +88,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #theme: landscape
-theme: hexo-theme-xups
+theme: xups
 # 端口日志
 port: 4000
 logger: true

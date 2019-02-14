@@ -1,9 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0194a11e-eb28-4a6f-89e8-ceccfaf74d7b" name="Default" comment="ss">
+    <list default="true" id="0194a11e-eb28-4a6f-89e8-ceccfaf74d7b" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/__scaffolds/draft.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/__scaffolds/page.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/__scaffolds/post.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/__source/about/index.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/__source/comment/index.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/__source/lab/index.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/_config.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/_custom/about.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/_custom/comment.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/_custom/lab.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/_partial/after-footer.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/_partial/article.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/_partial/baidu-analytics.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/_partial/footer.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/_partial/head.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/_partial/header.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/_partial/post-list.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/_partial/post/category.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/_partial/post/comment.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/_partial/post/date.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/_partial/post/gallery.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/_partial/post/nav.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/_partial/post/post-item.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/_partial/post/share.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/_partial/post/tag.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/_partial/post/title.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/_partial/sidebar.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/_partial/widget/categorys.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/_partial/widget/friend_links.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/_partial/widget/tags.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/_partial/widget/weibo.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/archive.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/category.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/index.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/layout.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/page.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/post.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/tag.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/layout/tags.ejs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/_base/font.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/_base/global.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/_base/normalize.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/_base/reset.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/_extend.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/_markdown.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/_partial/article.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/_partial/comment.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/_partial/footer.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/_partial/header.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/_partial/highlight.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/_partial/post.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/_partial/responsive.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/_partial/searchform.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/_partial/sidebar.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/_partial/theme.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/_variables.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/fonts/homizio-nova/italic.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/fonts/homizio-nova/italic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/fonts/homizio-nova/light.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/fonts/homizio-nova/light.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/fonts/homizio-nova/light_italic.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/fonts/homizio-nova/light_italic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/fonts/homizio-nova/regular.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/fonts/homizio-nova/regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/fonts/icomoon/icomoon.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/fonts/icomoon/icomoon.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/fonts/icomoon/icomoon.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/fonts/icomoon/icomoon.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/fonts/icomoon2/icomoon.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/fonts/icomoon2/icomoon.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/fonts/icomoon2/icomoon.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/fonts/icomoon2/icomoon.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/css/style.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/default.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/gitee/1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/gitee/100_100.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/gitee/3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/gitee/4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/gitee/Screenshot_20190207_213719_com.tencent.mm.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/gitee/Screenshot_20190207_213738_com.tencent.mm.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/gitee/TIM截图20190207114434.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/gitee/TIM截图20190207114455.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/gitee/TIM截图20190207121131.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/gitee/TIM截图20190207171624.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/gitee/TIM截图20190207171949.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/gitee/TIM截图20190207183539.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/gitee/TIM截图20190207184110.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/gitee/TIM截图20190207184324.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/gitee/TIM截图20190207184824.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/gitee/TIM截图20190207220855.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/gitee/TIM截图20190207221951.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/gitee/admin0.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/gitee/front.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/gitee/tq.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/jelon.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/lab/banner.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/loading.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/no_found.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/scrolltoparrow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/share.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/skm.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/thumbnail/0.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/thumbnail/1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/thumbnail/2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/thumbnail/3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/thumbnail/4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/thumbnail/5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/thumbnail/6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/thumbnail/7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/thumbnail/8.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/thumbnail/9.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/thumbnail/GitLab-CI-logo.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/thumbnail/github.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/thumbnail/gitoauth1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/thumbnail/gitoauth2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/thumbnail/gitoauth3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/thumbnail/gitpage1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/thumbnail/gitpage2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/thumbnail/gitpage3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/thumbnail/gitpage4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/thumbnail/hello.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/thumbnail/hexo.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/thumbnail/hexo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/thumbnail/hexocommand.jfif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/thumbnail/kaiyaun.jfif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/thumbnail/markdown.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/thumbnail/springboot.jfif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/unsigned_avatar.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/url.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/wechat_jelon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/img/wechat_mp.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/js/comment.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/js/html5.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/xups/source/js/main.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/themes/hexo-theme-xups" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,7 +149,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/简历1/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -24,14 +159,45 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="433">
+              <caret line="90" column="11" lean-forward="true" selection-start-line="90" selection-start-column="11" selection-end-line="90" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/xups/__scaffolds/page.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_config.yml" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -77,12 +243,6 @@
               <item name="jp_blog" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="jp_blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jp_blog" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="简历1" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -96,6 +256,11 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\userHub\github\jp_blog\themes\xups" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -205,12 +370,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550159836311</updated>
-      <workItem from="1550159840108" duration="605000" />
+      <workItem from="1550159840108" duration="717000" />
     </task>
+    <task id="LOCAL-00001" summary="ss">
+      <created>1550160453443</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550160453443</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="605000" />
+    <option name="totallyTimeSpent" value="717000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -303,6 +476,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/xups/__scaffolds/page.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="90" column="11" lean-forward="true" selection-start-line="90" selection-start-column="11" selection-end-line="90" selection-end-column="11" />
           <folding />
         </state>
       </provider>
