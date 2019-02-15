@@ -1,6 +1,6 @@
 ---
 title: yarn包管理学习使用
-date: 2019-2-13
+date: 2019-2-15
 author: alanJiang
 tags:
     - Yarn
