@@ -6,7 +6,7 @@ tags:
     - VUE
 categories:
     - VUE
-thumbnail:  /img/thumbnail/hello.jpg
+thumbnail:  /img/other/vue-components.svg
 blogexcerpt: 学习使用vue组件与父子组件，组件的通讯，引用，传参，方法调用等
 ---
 

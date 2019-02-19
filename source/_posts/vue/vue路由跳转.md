@@ -6,7 +6,7 @@ tags:
     - VUE
 categories:
     - VUE
-thumbnail:  /img/thumbnail/hello.jpg
+thumbnail:  /img/other/vue-components.svg
 blogexcerpt: vue路由跳转使用
 ---
 # 1.router-link跳转
