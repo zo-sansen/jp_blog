@@ -3,9 +3,9 @@ title: 修改liunx hosts解析
 date: 2019-2-13
 author: alanJiang
 tags:
-    - HEXO
+    - Linux
 categories:
-    - 个博搭建
+    - Linux
 thumbnail:  /img/thumbnail/hello.jpg
 blogexcerpt: 修改liunx hosts解析
 ---

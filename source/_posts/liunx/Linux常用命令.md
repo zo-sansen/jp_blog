@@ -3,9 +3,9 @@ title: Linux常用命令
 date: 2019-2-19
 author: alanJiang
 tags:
-    - HEXO
+    - Linux
 categories:
-    - 个博搭建
+    - Linux
 thumbnail:  /img/other/linux.jpeg
 blogexcerpt: Linux常用命令
 ---
