@@ -20,3 +20,14 @@ npm install --save-dev stylus-loader babel-runtime
 ```
 >npm install --registry=https://registry.npm.taobao.org
 ```
+# 配置淘宝源
+```
+全局设置下载源：
+npm config set registry https://npm.taobao.org/mirrors/node
+
+下载node源码加速：
+npm config set disturl https://npm.taobao.org/mirrors/node 
+
+手动修改配置文件
+npm config edit
+```
