@@ -3,9 +3,10 @@ title: npm添加依赖
 date: 2019-2-13
 author: alanJiang
 tags:
-    - HEXO
+    - Node
+    - npm
 categories:
-    - 个博搭建
+    - Node
 thumbnail:  /img/thumbnail/hello.jpg
 blogexcerpt: npm添加依赖
 ---
