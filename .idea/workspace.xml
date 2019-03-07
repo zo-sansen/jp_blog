@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0194a11e-eb28-4a6f-89e8-ceccfaf74d7b" name="Default" comment="博客不能启动问题修复">
-      <change afterPath="$PROJECT_DIR$/source/_posts/js/canvas图片下载.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/opensource/springcloud/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/opensource/springcloud/springcloud_config.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/opensource/springcloud/springcloud_eureka.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/mysql/mysql创建数据.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -114,12 +110,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/js/canvas图片下载.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="475">
-                <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+              <first_editor relative-caret-position="418">
+                <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_posts/mysql/mysql创建数据.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="247">
+                <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -179,14 +187,15 @@
         <option value="$PROJECT_DIR$/source/_posts/opensource/springcloud/springcloud_eureka.md" />
         <option value="$PROJECT_DIR$/source/_posts/opensource/springcloud/springcloud_config.md" />
         <option value="$PROJECT_DIR$/source/_posts/js/canvas图片下载.md" />
+        <option value="$PROJECT_DIR$/source/_posts/mysql/mysql创建数据.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="292" />
-    <option name="y" value="52" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="173" />
+    <option name="y" value="108" />
+    <option name="width" value="1747" />
+    <option name="height" value="972" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -214,43 +223,6 @@
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="jp_blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jp_blog" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jp_blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jp_blog" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="node" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jp_blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jp_blog" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="node" type="462c0819:PsiDirectoryNode" />
-              <item name="npm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jp_blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jp_blog" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="opensource" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jp_blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jp_blog" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="opensource" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -260,19 +232,19 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551935930241" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551953364593" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/themes/hexo-theme-xups/source/img/other" />
-      <recent name="$PROJECT_DIR$/source/_posts/js/dataType" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/_posts/mysql" />
       <recent name="$PROJECT_DIR$/source/_posts/js" />
       <recent name="$PROJECT_DIR$/source/_posts/opensource/springcloud" />
       <recent name="$PROJECT_DIR$/themes/hexo-theme-xups/source/img/mianshi" />
       <recent name="$PROJECT_DIR$/source/_posts/19年面试" />
-      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/hexo-theme-xups/source/img/other" />
+      <recent name="$PROJECT_DIR$/source/_posts/js/dataType" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -359,7 +331,8 @@
       <workItem from="1551755371348" duration="893000" />
       <workItem from="1551690053880" duration="698000" />
       <workItem from="1551691085297" duration="32000" />
-      <workItem from="1551931725327" duration="923000" />
+      <workItem from="1551931725327" duration="2156000" />
+      <workItem from="1551949003165" duration="1253000" />
     </task>
     <task id="LOCAL-00001" summary="博客不能启动问题修复">
       <created>1550225243220</created>
@@ -445,11 +418,18 @@
       <option name="project" value="LOCAL" />
       <updated>1551374636354</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="博客不能启动问题修复">
+      <created>1551935952462</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1551935952462</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64948000" />
+    <option name="totallyTimeSpent" value="67434000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -464,7 +444,7 @@
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29928216" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28492546" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -900,8 +880,18 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/js/canvas图片下载.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="475">
-            <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+          <first_editor relative-caret-position="418">
+            <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/mysql/mysql创建数据.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="247">
+            <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>
